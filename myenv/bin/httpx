@@ -1,4 +1,4 @@
-#!/Users/romanhaldava/Work/slack-chatbot/myenv/bin/python3.10
+#!/Users/romanhaldava/Work/slack-chatbot/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
